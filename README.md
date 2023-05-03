@@ -1,5 +1,5 @@
 # WeatherApp
- Weather App This is a weather app created using Python and a graphical user interface (GUI) library. The app allows users to enter a location and view the current weather conditions for that location, including the temperature, humidity, wind speed, and description of the weather.
+ This is a weather app created using Python and a graphical user interface (GUI) library. The app allows users to enter a location and view the current weather conditions for that location, including the temperature, humidity, wind speed, and description of the weather.
 
 ## Installation
 To use this app, you will need to have Python installed on your computer, as well as the following Python libraries:
