@@ -12,11 +12,9 @@ You can install these libraries using pip, the Python package manager, by runnin
 ## Usage
 To use the app, run the weather_app.py file in your Python environment. This will open up the app's graphical user interface, where you can enter a location in the input field and click the "Get Weather" button to view the current weather conditions for that location.
 
-The app uses the OpenWeatherMap API to retrieve weather data, so you will need to have an API key in order to use it. You can sign up for a free API key on the OpenWeatherMap website.
+The app uses the [OpenWeatherMap](https://openweathermap.org/) API to retrieve weather data, so you will need to have an API key in order to use it. You can sign up for a free API key on the OpenWeatherMap website.
 
-Once you have an API key, open the weather_app.py file in a text editor and replace the value of the api_key variable with your own API key:
-`api_key = 'YOUR_API_KEY_HERE'`
-Save the file and run it again to use the app with your API key.
+
 
 ## License
 This app is licensed under the MIT License. See the LICENSE file for more information.
