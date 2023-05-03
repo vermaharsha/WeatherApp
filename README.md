@@ -3,8 +3,8 @@
 
 ## Installation
 To use this app, you will need to have Python installed on your computer, as well as the following Python libraries:
-Tkinter
-requests
+`Tkinter , 
+requests`
 
 You can install these libraries using pip, the Python package manager, by running the following command in your terminal:
 `pip install tkinter requests`
