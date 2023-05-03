@@ -17,6 +17,7 @@ The app uses the `OpenWeatherMap` API to retrieve weather data, so you will need
 ## Acknowledgements
 This app was created as a personal project by Rajnish Kumar Sharma . It uses the OpenWeatherMap API for weather data.
 
-##glimpse 
-(https://user-images.githubusercontent.com/111423953/235852119-a5f3eece-f51a-46f8-826b-5d93733dc1ca.jpeg)
+##glimpse
+![Untitled-01](https://user-images.githubusercontent.com/111423953/235852119-a5f3eece-f51a-46f8-826b-5d93733dc1ca.jpeg)
+
 
