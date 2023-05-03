@@ -14,10 +14,5 @@ To use the app, run the weather_app.py file in your Python environment. This wil
 
 The app uses the `OpenWeatherMap` API to retrieve weather data, so you will need to have an API key in order to use it. You can sign up for a free API key on the [OpenWeatherMap ](https://openweathermap.org/)website.
 
-
-
-## License
-This app is licensed under the MIT License. See the LICENSE file for more information.
-
 ## Acknowledgements
 This app was created as a personal project by Rajnish Kumar Sharma . It uses the OpenWeatherMap API for weather data.
